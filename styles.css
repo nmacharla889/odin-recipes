@@ -1,0 +1,48 @@
+.homepage {
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    background-color: rgb(197, 173, 141);
+}
+
+
+#odin-recipes {
+    background-color: rgba(47, 172, 255, 0.432);
+}
+
+.links-homepage {
+    display: inline-block;
+    width: 200px;
+    width: 25%;
+}
+
+.hyderabad-chicken-biryani-recipe,
+.tiger-chicken-recipe,
+.instant-pot-mexican-rice-recipe {
+    background-color: rgba(241, 214, 173, 0.849);
+}
+
+#title-chicken,
+#title-instant-pot-mexican-rice,
+#title-tiger-chicken {
+    display: block;
+    text-align: center;
+    font-size: 70px;
+
+}
+
+.image {
+    display: block;
+    margin: auto;
+}
+
+footer {
+    border: 2px solid rgb(0, 110, 255);
+    display: inline;
+    background-color: beige;
+}
+
+h2,
+h3 {
+    margin-bottom: -15px;
+}
